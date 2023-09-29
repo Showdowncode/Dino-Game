@@ -10,6 +10,16 @@
     width: 100px;
     height: 100px;
     background-size: 100px 100px;
-    top: 100px;
+    top: 115px;
+    position: relative;
+}
+
+#kaktus{
+    background-image: url("./cactus.png");
+    width: 50px;
+    height: 50px;
+    background-size: 50px 50px;
+    left: 550px;
+    top: 36px;
     position: relative;
 }
