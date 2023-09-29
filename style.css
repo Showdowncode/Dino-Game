@@ -4,3 +4,12 @@
     border: 1px solid;
     margin: auto;
 }
+
+#dino{
+    background-image: url("./dino.png");
+    width: 100px;
+    height: 100px;
+    background-size: 100px 100px;
+    top: 100px;
+    position: relative;
+}
